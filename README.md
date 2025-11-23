@@ -62,6 +62,11 @@ python train.py
 python evaluate.py
 ```
 
+
+## DataSets
+Nat2XFoot.
+https://drive.google.com/drive/folders/12rilmBEL1r239jDOqmEq_2LJ10mA72Lm?usp=sharing
+
 ##  Citation
 If you find this work useful, please cite our paper:
 ```
